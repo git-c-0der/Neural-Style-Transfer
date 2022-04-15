@@ -7,6 +7,8 @@ These extraction and power of the convolutions to recognize the features of an i
 
 Please go through the notebook attached with this repo go get a better understanding of the technical details of the same. Also refer to the <a href='https://arxiv.org/abs/1508.06576'>research paper</a> of authors who developed this technique of Artistic Neural Style Transfer.
 
+Read the notebook on kaggle: <a href='https://www.kaggle.com/code/abhishek123maurya/neural-style-transfer'>NST Notebook</a>
+
 
 
 
